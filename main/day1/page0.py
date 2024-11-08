@@ -1,6 +1,6 @@
 # day1 > page0.py
 
-####
+######
 def summary():
     A, B = map(int, input().split(" "))
 

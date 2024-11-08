@@ -1,5 +1,5 @@
 # day1 > page1.py
-##
+####
 
 def surprise_print():
     id = input()
